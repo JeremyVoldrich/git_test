@@ -1,1 +1,2 @@
 Adding text to test this file.
+Test git commit message in VS Code.
